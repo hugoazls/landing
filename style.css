@@ -1,0 +1,39 @@
+body{
+	background-color: #F6F9FC;
+	color: rgb(50, 50, 50);
+	font-family: Times;
+	font-size: 15px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
+h1, h2, h3, h4{
+	font-weight: Bolder;
+	font-size: 30px;
+	color: black;
+}
+ p{
+	font-weight: lighter;
+	font-size: 17px;
+	color: #183153;
+	margin: 10px auto;
+	text-align: center;
+	margin: 0px auto;
+}
+.box{
+	font-weight: Bolder;
+	background: white;
+	color: #0C2E4E;                         
+	padding: 30px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 800px;     
+	margin: 50px auto; 
+	text-align: center;
+	align-items: center;
+}
+.img{
+	max-width: 300px;
+	height: auto;
+
+}
